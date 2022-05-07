@@ -1,4 +1,4 @@
-# VSC_startup
+# VSC_configs
 
 // Additions
 
@@ -80,3 +80,6 @@ false, "editor.folding": true, "editor.glyphMargin": false,
 //ALSO configurations in Settings JSON VSCode => { "editor.defaultFormatter":
 "esbenp.prettier-vscode", "[javascript]": { "editor.defaultFormatter":
 "esbenp.prettier-vscode" }, }
+
+# VSC_short_cuts
+ - CMND + p => file search
