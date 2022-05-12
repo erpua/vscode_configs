@@ -82,4 +82,6 @@ false, "editor.folding": true, "editor.glyphMargin": false,
 "esbenp.prettier-vscode" }, }
 
 # VSC_short_cuts
- - CMND + p => file search
+
+- cmd + p => file search.
+- cmd + K + C => comment with double slash, !but does not uncomment.
